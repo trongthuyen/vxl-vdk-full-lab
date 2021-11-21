@@ -1,1 +1,1 @@
-# vxl-vdk-lab1
+# vxl-vdk-full-lab
